@@ -48,33 +48,13 @@ Create a script named start.bat:
 
 bat
 @echo off
-python main.py
-pause
+python main
+
 Run the script by double-clicking start.bat in the file explorer.
 
 Conclusion
-You are now set to run the application on both Linux and Windows!
+You are now set to run the application on both Linux and Windows
 
-Code
-Please confirm you want Copilot to make this change in the rafalstepkowski5-glitch/mod7-zad-1-find_friends_v4-binder repository on branch main.
-
-my_openai_api_key.py
-app.py
-my_save_model.py
-requirements.txt
-my_clusters_descr.py
-my_env.py
-my_openai_api_key.py
- rafalstepkowski5-glitch accepted the action
-Copilot said: Now I'll create commented versions of all
-Now I'll create commented versions of all the Python files and add them to the repository:
-
-You said: Ok
-Ok
-Copilot said: Now I'll create a comprehensive `start.md` file
-Now I'll create a comprehensive start.md file with installation guide, startup scripts, and documentation about all the Python files:
-
-start.md
 # 🚀 Find Friends v4 - Installation & Startup Guide
 
 ## 📋 Table of Contents
@@ -489,6 +469,5 @@ my_env.py: This file is used for environment management. It sets up the necessar
 
 my_openai_api_key.py: This script stores sensitive API keys required for integrating OpenAI services. Ensure this file is kept secure and not shared publicly.
 
-Startup Scripts
-Additionally, make sure any startup scripts are properly referenced and executable to streamline the startup process of the project.
+
 
