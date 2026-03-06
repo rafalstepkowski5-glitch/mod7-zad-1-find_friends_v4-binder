@@ -1,17 +1,4 @@
 
-Copilot navigation
-Quick links
-New chat
-Agents
-Spaces
-Spark
-Preview
-Chats
-Today
-Fetching remaining Python files
-
-
-
 md
 # Installation and Startup Guide
 
